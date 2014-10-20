@@ -19,6 +19,7 @@ ON-OFF low contrast selective
 ON delayed
 ON OS
 JAM-B
+ChR2+
 Melanopsin M1
 Large bursty
 unidentified RGC
