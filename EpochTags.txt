@@ -1,0 +1,2 @@
+CellTypology_LightStep	1	0
+CellTypology_MovingBar	1	0

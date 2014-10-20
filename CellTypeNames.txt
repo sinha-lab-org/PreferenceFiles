@@ -1,0 +1,33 @@
+ON alpha
+OFF transient alpha
+OFF sustained alpha
+ON high speed sensitive
+OFF transient high speed sensitive
+ON-OFF DS sustained
+ON-OFF DS transient
+ON DS sustained
+ON transient LSDS
+ON sustained LSDS
+ON transient HSDS
+ON sustained HSDS
+LED
+ON-OFF size selector
+ON transient / OFF sustained
+OFF low contrast selective
+ON-OFF low contrast selective
+ON delayed
+ON OS
+JAM-B
+Melanopsin M1
+Large bursty
+unidentified RGC
+CRH-1 amacrine
+ON sustained OS amacrine
+nNos-1 amacrine - A1
+nNos-2 amacrine - ON bowtie
+nNos-3 amacrine - A1-like OS
+nNos-4 amacrine - OFF symmetric 
+nNos-5 amacrine - OFF bowtie
+bad recording
+unidentified amacrine
+unidentified

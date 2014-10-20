@@ -1,0 +1,3 @@
+RecordedBy	Greg	Jason	Adam	Amurta	Sam
+Genotype	nNos	CRH	CRH-ChR2-Ai27	nonCarrier
+QualityRating	Low	Medium	High
