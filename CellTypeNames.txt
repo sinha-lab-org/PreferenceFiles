@@ -11,6 +11,7 @@ ON sustained LSDS
 ON transient HSDS
 ON sustained HSDS
 LED
+ON size selector
 ON-OFF size selector
 ON transient / OFF sustained
 OFF low contrast selective
