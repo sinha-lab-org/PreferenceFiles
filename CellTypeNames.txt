@@ -19,7 +19,7 @@ ON-OFF low contrast selective
 ON delayed
 ON OS
 JAM-B
-ChR2+
+ChR2+ RGC
 Melanopsin M1
 Large bursty
 unidentified RGC
@@ -30,6 +30,7 @@ nNos-2 amacrine - ON bowtie
 nNos-3 amacrine - A1-like OS
 nNos-4 amacrine - OFF symmetric 
 nNos-5 amacrine - OFF bowtie
+ChR2+ amacrine
 bad recording
 unidentified amacrine
 unidentified
