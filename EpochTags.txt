@@ -1,2 +1,4 @@
-CellTypology_LightStep	1	0
-CellTypology_MovingBar	1	0
+CellTypology_LightStep	1
+CellTypology_MovingBar	1
+CellTypology_SpotsMultiSize	1
+CellTypology_ContrastResp	1
