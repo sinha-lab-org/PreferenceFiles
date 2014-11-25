@@ -2,3 +2,7 @@ CellTypology_LightStep	1
 CellTypology_MovingBar	1
 CellTypology_SpotsMultiSize	1
 CellTypology_ContrastResp	1
+OS_ContrastResp	1
+OS_SpotsMultiSize	1
+OS_RadonRF	1
+OS_LightStep	1
