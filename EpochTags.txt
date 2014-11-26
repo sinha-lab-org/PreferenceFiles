@@ -6,3 +6,5 @@ OS_ContrastResp	1
 OS_SpotsMultiSize	1
 OS_RadonRF	1
 OS_LightStep	1
+OS_FlashedBars	1
+OS_MovingBar	1
