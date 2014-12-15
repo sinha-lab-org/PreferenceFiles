@@ -2,7 +2,7 @@ ContrastResp	ContrastRespAnalysis
 MovingBar	MovingBarAnalysis
 IV	IVAnalysis
 RF1D	RF1DAnalysis
-LightStep	LightStepAnalysis
+LightStep	LightStepAnalysisTEMP
 SpotsMultiSize	SpotsMultiSizeAnalysis
 PairedSpots	PairedSpotsAnalysis
 TextureMatrix	TextureMatrixAnalysis
