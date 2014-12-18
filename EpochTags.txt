@@ -2,6 +2,11 @@ CellTypology_LightStep	1
 CellTypology_MovingBar	1
 CellTypology_SpotsMultiSize	1
 CellTypology_ContrastResp	1
+Response_Qality	good	maybe	bad
+LS_standard200	1
+LS_dtandard	1
+BadResponseAnalysis	1
+ExcessDataSetForCell	1
 OS_ContrastResp	1
 OS_SpotsMultiSize	1
 OS_RadonRF	1
