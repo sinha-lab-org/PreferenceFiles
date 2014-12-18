@@ -6,8 +6,9 @@ LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
 PairedSpots	PairedSpotsAnalysis
 TextureMatrix	TextureMatrixAnalysis
-Pulse	CurrentOrVoltagePulseAnalysis
+CurrentPulse	CurrentOrVoltagePulseAnalysis
 BarsMultiSpeed	BarsMultiSpeedAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 SpotsRF	SpotsRFAnalysis
 RadonRF	RadonRFAnalysis
+OptogeneticsPulse	OptogeneticsPulseAnalysis
