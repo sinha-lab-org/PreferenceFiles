@@ -25,6 +25,7 @@ Large bursty
 unidentified RGC
 CRH-1 amacrine
 ON sustained OS amacrine
+Spider amacrine
 nNos-1 amacrine - A1
 nNos-2 amacrine - ON bowtie
 nNos-3 amacrine - A1-like OS
