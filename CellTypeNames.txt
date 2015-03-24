@@ -18,7 +18,6 @@ Suppressed by contrast
 ON delayed
 ON OS
 OFF OS
-JAM-B
 ChR2+ RGC
 Melanopsin M1
 Large bursty
