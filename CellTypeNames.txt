@@ -17,7 +17,6 @@ ON delayed
 ON OS
 ON-OFF OS
 OFF OS
-JAM-B
 ChR2+ RGC
 Melanopsin M1
 Large bursty
