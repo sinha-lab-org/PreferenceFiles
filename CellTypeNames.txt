@@ -9,14 +9,13 @@ ON DS sustained
 ON sustained non-alpha
 ON sustained ODB
 ON transient LSDS
-ON transient HSDS
 LED
-ON size selector
 ON-OFF size selector
 ON transient OFF sustained
 Suppressed by contrast
 ON delayed
 ON OS
+ON-OFF OS
 OFF OS
 JAM-B
 ChR2+ RGC
