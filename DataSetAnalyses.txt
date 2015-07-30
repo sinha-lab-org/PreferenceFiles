@@ -6,5 +6,4 @@ SpotsMultiSize	SpotsMultiSizeAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 RadonRF	RadonRFAnalysis
-BarsMultiSpeed	BarsMultiSpeedAnalysis
 DriftingGratings	DriftingGratingsAnalysis
