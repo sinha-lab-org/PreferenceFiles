@@ -1,15 +1,23 @@
+ExcessDataSetForCell	1
 CellTypology_LightStep	1
 CellTypology_MovingBar	1
 CellTypology_SpotsMultiSize	1
 CellTypology_ContrastResp	1
-Response_Qality	good	maybe	bad
+Response_Quality	good	maybe	bad
 LS_standard200	1
-LS_dtandard	1
+LS_standard	1
 BadResponseAnalysis	1
 ExcessDataSetForCell	1
-OS_ContrastResp	1
-OS_SpotsMultiSize	1
-OS_RadonRF	1
-OS_LightStep	1
-OS_FlashedBars	1
-OS_MovingBar	1
+ONOS_ContrastResp	1
+ONOS_SpotsMultiSize	1
+ONOS_RadonRF	1
+ONOS_LightStep	1
+ONOS_FlashedBars	1
+ONOS_MovingBar	1
+OFFOS_FlashedBars	1
+OFFOS_SpotsMultiSize	1
+OFFOS_ContrastResp	1
+OFFOS_MovingBar	1
+OFFOS_LightStep	1
+
+

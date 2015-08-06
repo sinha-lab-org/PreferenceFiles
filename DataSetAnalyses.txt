@@ -1,13 +1,13 @@
 ContrastResp	ContrastRespAnalysis
 MovingBar	MovingBarAnalysis
 IV	IVAnalysis
+<<<<<<< HEAD
 RF1D	RF1DAnalysis
+=======
+>>>>>>> 744822446fed1f39e0a1f4c90b97e3a93bf563f5
 LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
-PairedSpots	PairedSpotsAnalysis
-TextureMatrix	TextureMatrixAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
-BarsMultiSpeed	BarsMultiSpeedAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
-SpotsRF	SpotsRFAnalysis
 RadonRF	RadonRFAnalysis
+DriftingGratings	DriftingGratingsAnalysis
