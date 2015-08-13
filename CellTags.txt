@@ -1,8 +1,8 @@
-RecordedBy	Greg	Jason	Adam	Amurta	Sam	Mike
-Genotype	nNos	CRH	CRH-ChR2-Ai27	nonCarrier
+RecordedBy	Greg	Jason	Adam	Amurta	Sam	Mike	David
+CuratedForTypology	1
 Genotype	nNos	CRH	CRH-ChR2-Ai27	nonCarrier	WT
 QualityRating	1	2	3	4
 CellClass	RGC	amacrine	bipolar
-CellTypeDoubt	1
+CelltypeDoubt	1
 SbCpaper_contrastResp	1
 CRH_ablation_cell	1
