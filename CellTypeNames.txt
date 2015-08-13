@@ -8,7 +8,7 @@ ON-OFF DS transient
 ON DS sustained
 ON sustained non-alpha
 ON sustained ODB
-ON transient LSDS
+WFDS
 LED
 ON-OFF size selector
 ON transient OFF sustained - Small
@@ -17,10 +17,12 @@ Suppressed by contrast
 ON delayed
 ON OS
 ON-OFF OS
+ON-OFF OS type2
 OFF OS
 ChR2+ RGC
 Melanopsin M1
 Large bursty
+ON bursty
 unidentified RGC
 CRH-1 amacrine
 ON sustained OS amacrine
