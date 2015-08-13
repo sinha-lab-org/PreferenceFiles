@@ -11,7 +11,8 @@ ON sustained ODB
 ON transient LSDS
 LED
 ON-OFF size selector
-ON transient OFF sustained
+ON transient OFF sustained - Small
+ON transient OFF sustained - Large
 Suppressed by contrast
 ON delayed
 ON OS
