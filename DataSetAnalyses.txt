@@ -7,3 +7,5 @@ PairedSpots	PairedSpotsAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 RadonRF	RadonRFAnalysis
+BarsMultiAngle	BarsMultiAngleAnalysis
+DriftingGratings	DriftingGratingsAnalysis
