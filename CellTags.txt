@@ -1,4 +1,7 @@
 RecordedBy	Greg	Jason	Adam	Amurta	Sam
 Genotype	nNos	CRH	CRH-ChR2-Ai27	nonCarrier
-QualityRating	Low	Medium	High
+QualityRating	4	3	2	1
 CellClass	RGC	amacrine	bipolar
+BadResponseQuality	1
+CelltypeDoubt	1
+CuratedForTypology	1

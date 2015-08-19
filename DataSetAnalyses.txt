@@ -1,13 +1,9 @@
 ContrastResp	ContrastRespAnalysis
 MovingBar	MovingBarAnalysis
 IV	IVAnalysis
-RF1D	RF1DAnalysis
-LightStep	LightStepAnalysisTEMP
+LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
 PairedSpots	PairedSpotsAnalysis
-TextureMatrix	TextureMatrixAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
-BarsMultiSpeed	BarsMultiSpeedAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
-SpotsRF	SpotsRFAnalysis
 RadonRF	RadonRFAnalysis
