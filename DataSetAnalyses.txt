@@ -6,3 +6,4 @@ SpotsMultiSize	SpotsMultiSizeAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
+TextureMatrix	TextureMatrixAnalysis
