@@ -3,7 +3,10 @@ MovingBar	MovingBarAnalysis
 IV	IVAnalysis
 LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
+PairedSpots	PairedSpotsAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
+BarsMultiAngle	BarsMultiAngleAnalysis
+RadonRF	RadonRFAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
 TextureMatrix	TextureMatrixAnalysis
