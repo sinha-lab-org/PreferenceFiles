@@ -11,8 +11,9 @@ ON sustained ODB
 WFDS
 LED
 ON-OFF size selector
-ON transient OFF sustained - Small
-ON transient OFF sustained - Large
+HighDefinition_1
+HighDefinition_2
+Ultra_HighDef
 Suppressed by contrast
 ON delayed
 ON OS
