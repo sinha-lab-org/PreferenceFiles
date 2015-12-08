@@ -15,7 +15,7 @@ CelltypeDoubt	1
 ONOS_ContrastResp	1
 ONOS_SpotsMultiSize	1
 ONOS_RadonRF	1
-ONOS_LightStep	1
+ONOS_LightStep	1	0
 ONOS_FlashedBars	1
 ONOS_MovingBar	1
 OFFOS_FlashedBars	1
