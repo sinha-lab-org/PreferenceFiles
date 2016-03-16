@@ -9,3 +9,7 @@ BarsMultiAngle	BarsMultiAngleAnalysis
 RadonRF	RadonRFAnalysis
 DriftingGratings	DriftingGratingsAnalysis
 SplitField	SplitFieldAnalysis
+TextureMatrix	TextureMatrixAnalysis
+Annulus	AnnulusAnalysis
+DriftingTexture		DriftingTextureAnalysis
+AutoCenter	AutoCenterAnalysis
