@@ -8,7 +8,8 @@ ON-OFF DS transient
 ON DS sustained
 ON sustained non-alpha
 ON sustained ODB
-WFDS
+ON WFDS
+OFF WFDS
 LED
 ON-OFF size selector
 HighDefinition_1
@@ -36,4 +37,3 @@ nNos-5 amacrine - OFF bowtie
 ChR2+ amacrine
 bad recording
 unidentified amacrine
-unidentified
