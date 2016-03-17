@@ -8,5 +8,8 @@ BarsMultiAngle	BarsMultiAngleAnalysis
 RadonRF	RadonRFAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
+DriftingTexture		DriftingTextureAnalysis
 SplitField	SplitFieldAnalysis
 TextureMatrix	TextureMatrixAnalysis
+AutoCenter	AutoCenterAnalysis
+RF1D	RF1DAnalysis
