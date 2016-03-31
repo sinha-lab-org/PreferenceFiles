@@ -3,14 +3,13 @@ OFF transient alpha
 OFF sustained alpha
 ON high speed sensitive
 OFF transient high speed sensitive
-OFF transient small
+ON WFDS
+OFF WFDS
 ON-OFF DS sustained
 ON-OFF DS transient
 ON DS sustained
 ON sustained non-alpha
 ON sustained ODB
-ON WFDS
-OFF WFDS
 LED
 ON-OFF size selector
 HighDefinition_1

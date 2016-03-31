@@ -5,18 +5,8 @@ LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
-RadonRF	RadonRFAnalysis
 DriftingGratings	DriftingGratingsAnalysis
-<<<<<<< HEAD
-DriftingTexture		DriftingTextureAnalysis
-SplitField	SplitFieldAnalysis
-TextureMatrix	TextureMatrixAnalysis
-AutoCenter	AutoCenterAnalysis
-RF1D	RF1DAnalysis
-=======
 SplitField	SplitFieldAnalysis
 TextureMatrix	TextureMatrixAnalysis
 Annulus	AnnulusAnalysis
 DriftingTexture		DriftingTextureAnalysis
-AutoCenter	AutoCenterAnalysis
->>>>>>> origin/master
