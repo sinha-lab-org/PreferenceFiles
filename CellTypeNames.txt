@@ -11,14 +11,13 @@ ON DS sustained
 ON sustained non-alpha
 ON sustained ODB
 LED
-ON-OFF size selector
 HighDefinition_1
 HighDefinition_2
 Ultra_HighDef
 Suppressed by contrast
 ON delayed
 ON OS
-ON-OFF OS
+ON small OFF large 
 ON-OFF OS type2
 OFF OS
 ChR2+ RGC
