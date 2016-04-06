@@ -10,3 +10,4 @@ SplitField	SplitFieldAnalysis
 TextureMatrix	TextureMatrixAnalysis
 Annulus	AnnulusAnalysis
 DriftingTexture		DriftingTextureAnalysis
+AutoCenter	AutoCenterAnalysis
