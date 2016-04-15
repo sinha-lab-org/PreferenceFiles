@@ -5,6 +5,7 @@ ON high speed sensitive
 OFF transient high speed sensitive
 ON WFDS
 OFF WFDS
+UltraLowDefinition
 ON-OFF DS sustained
 ON-OFF DS transient
 ON DS sustained
