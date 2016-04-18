@@ -3,7 +3,6 @@ MovingBar	MovingBarAnalysis
 IV	IVAnalysis
 LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
-Pulse	CurrentOrVoltagePulseAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
 SplitField	SplitFieldAnalysis
@@ -11,3 +10,4 @@ TextureMatrix	TextureMatrixAnalysis
 Annulus	AnnulusAnalysis
 DriftingTexture		DriftingTextureAnalysis
 AutoCenter	AutoCenterAnalysis
+IorVPulse	IorVPulseAnalysis
