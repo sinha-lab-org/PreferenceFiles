@@ -26,6 +26,7 @@ Melanopsin M1
 M2
 Large bursty
 ON bursty
+ON transformer
 unidentified RGC
 CRH-1 amacrine
 ON sustained OS amacrine
