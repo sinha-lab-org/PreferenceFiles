@@ -11,3 +11,5 @@ Annulus	AnnulusAnalysis
 DriftingTexture		DriftingTextureAnalysis
 AutoCenter	AutoCenterAnalysis
 IorVPulse	IorVPulseAnalysis
+WhiteNoiseFlicker	WhiteNoiseFlickerAnalysis
+WhiteNoiseIorV		WhiteNoiseIorVAnalysis
