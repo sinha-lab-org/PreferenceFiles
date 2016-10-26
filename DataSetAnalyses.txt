@@ -3,6 +3,7 @@ MovingBar	MovingBarAnalysis
 IV	IVAnalysis
 LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
+SpotsMultipleSizes	SpotsMultiSizeAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
 SplitField	SplitFieldAnalysis
