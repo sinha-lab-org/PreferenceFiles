@@ -13,3 +13,4 @@ Annulus	AnnulusAnalysis
 DriftingTexture		DriftingTextureAnalysis
 AutoCenter	AutoCenterAnalysis
 IorVPulse	IorVPulseAnalysis
+CenterSurroundNoise	CenterSurroundNoiseAnalysis
