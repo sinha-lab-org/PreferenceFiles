@@ -21,6 +21,7 @@ ON OS
 ON small OFF large 
 ON-OFF OS type2
 OFF OS
+F-mini OFF
 ChR2+ RGC
 Melanopsin M1
 M2
