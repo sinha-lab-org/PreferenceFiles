@@ -5,6 +5,7 @@ LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
 SpotsMultipleSizes	SpotsMultiSizeAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
+FlashedBar	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
 RadonRF RadonRFAnalysis
 SplitField	SplitFieldAnalysis
@@ -15,3 +16,4 @@ AutoCenter	AutoCenterAnalysis
 IorVPulse	IorVPulseAnalysis
 CenterSurroundNoise	CenterSurroundNoiseAnalysis
 ColorResponse ColorResponseAnalysis
+ColorIsoResponse ColorIsoResponseAnalysis
