@@ -11,6 +11,16 @@ ONOS_SpotsMultiSize	1
 ONOS_LightStep	1	2	3
 ONOS_FlashedBars	1
 ONOS_MovingBar	1
+<<<<<<< Updated upstream
 
+=======
+OFFOS_FlashedBars	1
+OFFOS_SpotsMultiSize	1
+OFFOS_ContrastResp	1
+OFFOS_MovingBar	1
+OFFOS_LightStep	1
+ONdelayed_Good	0	1
+ONdProject_Good	0	1
+>>>>>>> Stashed changes
 
 
