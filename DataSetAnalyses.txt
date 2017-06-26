@@ -1,9 +1,8 @@
 ContrastResp	ContrastRespAnalysis
 MovingBar	MovingBarAnalysis
-IV	IVAnalysis
+IV		IVAnalysis
 LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
-<<<<<<< Updated upstream
 SpotsMultipleSizes	SpotsMultiSizeAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 FlashedBar	BarsMultiAngleAnalysis
@@ -18,7 +17,6 @@ IorVPulse	IorVPulseAnalysis
 CenterSurroundNoise	CenterSurroundNoiseAnalysis
 ColorResponse ColorResponseAnalysis
 ColorIsoResponse ColorIsoResponseAnalysis
-=======
 PairedSpots	PairedSpotsAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
@@ -28,4 +26,3 @@ Approach	ApproachAnalysis
 Annulus		AnnulusAnalysis
 TextureMatrix	TextureMatrixAnalysis
 AnnI_V		IVAnnulusAnalysis
->>>>>>> Stashed changes

@@ -1,7 +1,6 @@
 ExcessDataSetForCell	1
 LS_standard200	1
 LS_standard	1
-ExcessDataSetForCell	1
 Checked013015	1
 Checked020915	1
 Checked030615	1
@@ -11,16 +10,13 @@ ONOS_SpotsMultiSize	1
 ONOS_LightStep	1	2	3
 ONOS_FlashedBars	1
 ONOS_MovingBar	1
-<<<<<<< Updated upstream
-
-=======
 OFFOS_FlashedBars	1
 OFFOS_SpotsMultiSize	1
 OFFOS_ContrastResp	1
 OFFOS_MovingBar	1
 OFFOS_LightStep	1
 ONdelayed_Good	0	1
+ONdProject_Good 	0	1
 ONdProject_Good	0	1
->>>>>>> Stashed changes
 
 
