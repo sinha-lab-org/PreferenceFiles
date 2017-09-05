@@ -4,6 +4,6 @@ BadResponseQuality	1
 CelltypeDoubt	1
 RecordedBy	Greg	Jason	Adam	Amurta	Sam	Mike	David   Maite
 CuratedForTypology	1
-Genotype	nNos	CRH	CRH-ChR2-Ai27	nonCarrier	WT	PV  Foxp2
+Genotype	nNos	CRH	CRH-ChR2-Ai27	nonCarrier	WT	PV  Foxp2 ETV1
 SbCpaper_contrastResp	1
 CRH_ablation_cell	1
