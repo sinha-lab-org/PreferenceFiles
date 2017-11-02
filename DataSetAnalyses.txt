@@ -4,6 +4,7 @@ IV		IVAnalysis
 LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
 SpotsMultipleSizes	SpotsMultiSizeAnalysis
+BarsMultiSpeed	BarsMultiSpeedAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
 FlashedBar	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
@@ -19,10 +20,5 @@ ColorResponse ColorResponseAnalysis
 ColorIsoResponse ColorIsoResponseAnalysis
 PairedSpots	PairedSpotsAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
-BarsMultiAngle	BarsMultiAngleAnalysis
-RadonRF	RadonRFAnalysis
-DriftingGratings	DriftingGratingsAnalysis
 Approach	ApproachAnalysis
-Annulus		AnnulusAnalysis
-TextureMatrix	TextureMatrixAnalysis
 AnnI_V		IVAnnulusAnalysis
