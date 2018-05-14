@@ -1,1 +1,54 @@
-ON alphaOFF sustained alphaOFF transient alphaOFF transient high speed sensitiveON DS sustainedON-OFF DS sustainedON-OFF DS transientON OSON WFDSF-mini ONF-mini OFFON burstyON delayedON high speed sensitiveON small OFF largeON sustained ODBON sustained non-alphaUltra_HighDefHighDefinition_1HighDefinition_2LEDLarge burstyM2M3M5Melanopsin M1OFF BurstyOFF OSOFF WFDSUnidentifiedbad recordingCRH-1 amacrineChR2+ RGCChR2+ amacrineON WFOSON sustained OS amacrineON transformerON-OFF OS type2ODB amacrineOn Depolarizing, Horizontal OS AmacrineOn Depolarizing, Narrow-field AmacrineOn Hyperpolarizing AmacrineOn Hyperpolarizing, OSOn Hyperpolarizing, Wide-field AmacrineOn Sustained DepolarizingOn Sustained Depolarizing DSOn Sustained Depolarizing OSOn Sustained Depolarizing, Type 1 AmacrineOn Sustained Depolarizing, Type 2 Amacrine (A17?)On Transient DepolarizingOn Transient Depolarizing, DS AmacrineOn Transient Depolarizing, Type 1 AmacrineOn Transient Depolarizing, Type 2 AmacrineSpider amacrineSpot Size Dependent, Vertical OS AmacrineSuppressed by contrastTriphasic amacrineUltraLowDefinitionnNos-1 amacrine - A1nNos-2 amacrine - ON bowtienNos-3 amacrine - A1-like OSnNos-4 amacrine - OFF symmetric nNos-5 amacrine - OFF bowtieunidentified RGCunidentified amacrine
+ON alpha
+OFF transient alpha
+OFF sustained alpha
+ON transient trumpet
+ON transient slide
+OFF transient
+F-mini ON
+F-mini OFF
+ON-OFF DS temporal
+ON-OFF DS nasal
+ON-OFF DS dorsal
+ON-OFF DS ventral
+ON-OFF DS - direction unknown
+ON DS temporal
+ON DS nasal
+ON DS dorsal
+ON DS ventral
+ON DS - direction unknown
+ODB
+LED
+HD1
+HD2
+UHD
+SbC sustained
+ON delayed
+ON OS horizontal
+ON OS vertical
+ON OS - orientation unknown
+OFF OS - JAMB
+OFF OS - symmetric
+OFF OS - subtype unknown
+OFF sustained ON large (1ni? OS?)
+M2
+ON bursty
+OFF bursty
+M1
+unidentified RGC
+bad recording
+ON surround-suppressed by inh
+ON transient burst
+ON small OFF large
+OFF large soma
+CRH-1 amacrine
+ON sustained OS amacrine
+Etv1-A amacrine - triphasic
+Etv1-B amacrine - ON spider
+Etv1-C amacrine - spaghetti DS-OS
+Comet amacrine
+nNos-1 amacrine - A1
+nNos-2 amacrine - ON bowtie
+nNos-3 amacrine - A1-like OS
+nNos-4 amacrine - OFF symmetric
+nNos-5 amacrine - OFF bowtie
+unidentified amacrine
