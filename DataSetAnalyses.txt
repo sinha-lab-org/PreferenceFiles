@@ -23,3 +23,4 @@ Pulse	CurrentOrVoltagePulseAnalysis
 Approach	ApproachAnalysis
 AnnI_V		IVAnnulusAnalysis
 Chirp       ChirpAnalysis
+DynamicClampConductanceScalingSpikeRate        DynamicClampAnalysis
