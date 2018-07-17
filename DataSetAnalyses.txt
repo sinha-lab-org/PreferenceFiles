@@ -4,8 +4,8 @@ IV		IVAnalysis
 LightStep	LightStepAnalysis
 SpotsMultiSize	SpotsMultiSizeAnalysis
 SpotsMultipleSizes	SpotsMultiSizeAnalysis
-BarsMultiSpeed	BarsMultiSpeedAnalysis
 BarsMultiAngle	BarsMultiAngleAnalysis
+BarsMultiSpeed	BarsMultiSpeedAnalysis
 FlashedBar	BarsMultiAngleAnalysis
 DriftingGratings	DriftingGratingsAnalysis
 RadonRF RadonRFAnalysis
@@ -24,3 +24,4 @@ Approach	ApproachAnalysis
 AnnI_V		IVAnnulusAnalysis
 Chirp       ChirpAnalysis
 DynamicClampConductanceScalingSpikeRate        DynamicClampAnalysis
+MultiPulse MultiPulseAnalysis

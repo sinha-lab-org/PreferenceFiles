@@ -32,7 +32,7 @@ OFF OS - subtype unknown
 OFF sustained ON large (1ni? OS?)
 M2
 ON bursty
-OFF bursty
+OFF Bursty
 M1
 unidentified RGC
 bad recording
