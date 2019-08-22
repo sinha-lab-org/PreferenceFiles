@@ -52,3 +52,10 @@ nNos-3 amacrine - A1-like OS
 nNos-4 amacrine - OFF symmetric
 nNos-5 amacrine - OFF bowtie
 unidentified amacrine
+unknown ON RGC
+unknown ON sustained RGC
+unknown ON transient RGC
+unknown ON OFF RGC
+unknown OFF RGC
+unknown OFF transient RGC
+unknown OFF sustained RGC
