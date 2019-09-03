@@ -31,6 +31,7 @@ OFF OS - symmetric
 OFF OS - subtype unknown
 OFF sustained ON large (1ni? OS?)
 M2
+M6 (915)
 ON bursty
 OFF Bursty
 M1
