@@ -1,46 +1,56 @@
+- ON sustained RGC
 ON alpha
-OFF transient alpha
-OFF sustained alpha
+PixON
+M2
+ON OS horizontal
+ON OS vertical
+ON OS - orientation unknown
+ON DS dorsonasal
+ON DS ventronasal
+ON DS temporal
+ON DS - direction unknown
+ON DS - possible T 7o
+ON bursty
+- ON transient RGC
 ON transient trumpet
 ON transient slide
-OFF transient
+ON transient 6st
 F-mini ON
+915
+- OFF sustained RGC
+OFF sustained alpha
+OFF OS - JAMB
+OFF OS - symmetric
+OFF medium sustained
+OFF MS SmRF??
+- OFF transient RGC
+OFF transient alpha
+OFF transient transient
+OFF transient shelf
 F-mini OFF
+- ON-OFF small
+LED
+HD1
+HD2
+UHD
+- ON-OFF DS
 ON-OFF DS temporal
 ON-OFF DS nasal
 ON-OFF DS dorsal
 ON-OFF DS ventral
 ON-OFF DS - direction unknown
-ON DS temporal
-ON DS nasal
-ON DS dorsal
-ON DS ventral
-ON DS - direction unknown
-ODB
-LED
-HD1
-HD2
-UHD
-SbC sustained
+- Other RGC
 ON delayed
-ON OS horizontal
-ON OS vertical
-ON OS - orientation unknown
-OFF OS - JAMB
-OFF OS - symmetric
-OFF OS - subtype unknown
-OFF sustained ON large (1ni? OS?)
-M2
-M6 (915)
-ON bursty
-OFF Bursty
-M1
-unidentified RGC
-bad recording
-ON surround-suppressed by inh
-ON transient burst
+SbC sustained
+SbC bursty (OFF bursty)
+ON-OFF OS
+Motion-sensitive OS
+OFF bursty non-SbC
 ON small OFF large
-OFF large soma
+M1
+- bad recording
+- unidentified RGC
+- unidentified amacrine
 CRH-1 amacrine
 ON sustained OS amacrine
 Etv1-A amacrine - triphasic
@@ -50,13 +60,5 @@ Comet amacrine
 nNos-1 amacrine - A1
 nNos-2 amacrine - ON bowtie
 nNos-3 amacrine - A1-like OS
-nNos-4 amacrine - OFF symmetric
+nNos-4 amacrine - OFF symmetric 
 nNos-5 amacrine - OFF bowtie
-unidentified amacrine
-unknown ON RGC
-unknown ON sustained RGC
-unknown ON transient RGC
-unknown ON OFF RGC
-unknown OFF RGC
-unknown OFF transient RGC
-unknown OFF sustained RGC
