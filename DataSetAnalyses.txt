@@ -18,7 +18,6 @@ IorVPulse	IorVPulseAnalysis
 CenterSurroundNoise	CenterSurroundNoiseAnalysis
 ColorResponse ColorResponseAnalysis
 ColorIsoResponse ColorIsoResponseAnalysis
-PairedSpots	PairedSpotsAnalysis
 Pulse	CurrentOrVoltagePulseAnalysis
 Approach	ApproachAnalysis
 AnnI_V		IVAnnulusAnalysis

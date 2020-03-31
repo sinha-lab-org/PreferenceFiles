@@ -3,37 +3,30 @@ ON alpha
 PixON
 M2
 ON OS horizontal
-ON OS horizontal weak surround
 ON OS vertical
-ON OS vertical weak surround
 ON OS - orientation unknown
 ON DS dorsonasal
-ON DS temporal
 ON DS ventronasal
+ON DS temporal
 ON DS - direction unknown
 ON DS - possible T 7o
 ON bursty
-ON medium sustained
 - ON transient RGC
-ON transient MeRF
-ON transient SmRF
-ON transient 6t
+ON transient trumpet
+ON transient slide
+ON transient 6st
 F-mini ON
-- Fmini ON suppressed to zero
-M6
+915
 - OFF sustained RGC
 OFF sustained alpha
 OFF OS - JAMB
 OFF OS - symmetric
 OFF medium sustained
-EW1no
-EW3o
-SbC sus no surround
-SbC sus 28 ON large
+OFF MS SmRF??
 - OFF transient RGC
 OFF transient alpha
-OFF transient MeRF
-OFF transient SmRF
+OFF transient transient
+OFF transient shelf
 F-mini OFF
 - ON-OFF small
 LED
@@ -41,17 +34,21 @@ HD1
 HD2
 UHD
 - ON-OFF DS
-ON-OFF DS dorsal
-ON-OFF DS nasal
 ON-OFF DS temporal
+ON-OFF DS nasal
+ON-OFF DS dorsal
 ON-OFF DS ventral
 ON-OFF DS - direction unknown
 - Other RGC
 ON delayed
+SbC sustained
 SbC bursty (OFF bursty)
+ON-OFF OS
+Motion-sensitive OS
+OFF bursty non-SbC
 ON small OFF large
 M1
-OFF sustained SmRF
+M6
 - bad recording
 - unidentified RGC
 - unidentified amacrine

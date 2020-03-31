@@ -18,5 +18,5 @@ OFFOS_LightStep	1
 ONdelayed_Good	0	1
 ONdProject_Good 	0	1
 ONdProject_Good	0	1
-
-
+SMS_classification_remove	0	1
+PSTH_classification_remove	0	1
