@@ -24,3 +24,4 @@ AnnI_V		IVAnnulusAnalysis
 Chirp       ChirpAnalysis
 DynamicClampConductanceScalingSpikeRate        DynamicClampAnalysis
 MultiPulse MultiPulseAnalysis
+ObjectMotionSensitivity	ObjectMotionSensitivityAnalysis
