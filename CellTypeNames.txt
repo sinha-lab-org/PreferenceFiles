@@ -6,18 +6,20 @@ ON OS horizontal
 ON OS horizontal weak surround
 ON OS vertical
 ON OS vertical weak surround
+ON OS weak surround - orientation unknown
 ON OS - orientation unknown
 ON DS dorsonasal
 ON DS temporal
 ON DS ventronasal
 ON DS - direction unknown
-ON DS - possible T 7o
+ON DS transient
 ON bursty
 ON medium sustained
 - ON transient RGC
 ON transient MeRF
 ON transient SmRF
 ON transient 6t
+Motion sensor
 F-mini ON
 - Fmini ON suppressed to zero
 M6
