@@ -25,3 +25,4 @@ Chirp       ChirpAnalysis
 DynamicClampConductanceScalingSpikeRate        DynamicClampAnalysis
 MultiPulse MultiPulseAnalysis
 ObjectMotionSensitivity	ObjectMotionSensitivityAnalysis
+LedPulse LedPulseAnalysis
