@@ -26,4 +26,4 @@ DynamicClampConductanceScalingSpikeRate        DynamicClampAnalysis
 MultiPulse MultiPulseAnalysis
 ObjectMotionSensitivity	ObjectMotionSensitivityAnalysis
 LedPulse LedPulseAnalysis
-LedPulseAnalysisLightStep LedPulseAnalysisLightStep
+LedPulse LedPulseAnalysisLightStep
