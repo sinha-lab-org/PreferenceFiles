@@ -18,12 +18,17 @@ IorVPulse	IorVPulseAnalysis
 CenterSurroundNoise	CenterSurroundNoiseAnalysis
 ColorResponse ColorResponseAnalysis
 ColorIsoResponse ColorIsoResponseAnalysis
-Pulse	CurrentOrVoltagePulseAnalysis
 Approach	ApproachAnalysis
 AnnI_V		IVAnnulusAnalysis
-Chirp       ChirpAnalysis
+Chirp	ChirpAnalysis
 DynamicClampConductanceScalingSpikeRate        DynamicClampAnalysis
 MultiPulse MultiPulseAnalysis
 ObjectMotionSensitivity	ObjectMotionSensitivityAnalysis
-LedPulse LedPulseAnalysis
-LedPulse LedPulseLightStepAnalysis
+
+
+LedPulse	LedPulseAnalysis
+LedPulse	LedPulseLightStepAnalysis
+LedPulse	AndrilaLightAmplitudeAnalysis
+ConeTyping	CTTreeAnalysis
+PulseFamily	AndrilaIVAnalysis
+LedNoise	LinearNonLinearAnalysis
