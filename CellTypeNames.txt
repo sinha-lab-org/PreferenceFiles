@@ -1,70 +1,24 @@
-- ON sustained RGC
-ON alpha
-PixON
-M2
-ON OS horizontal
-ON OS horizontal weak surround
-ON OS vertical
-ON OS vertical weak surround
-ON OS weak surround - orientation unknown
-ON OS - orientation unknown
-ON DS dorsonasal
-ON DS temporal
-ON DS ventronasal
-ON DS - direction unknown
-ON DS transient
-ON bursty
-ON medium sustained
-- ON transient RGC
-ON transient MeRF
-ON transient SmRF
-ON transient 6t
-Motion sensor
-F-mini ON
-- Fmini ON suppressed to zero
-M6
-- OFF sustained RGC
-OFF sustained alpha
-OFF OS - JAMB
-OFF OS - symmetric
-OFF medium sustained
-EW1no
-EW3o
-SbC sus no surround
-SbC sus 28 ON large
-- OFF transient RGC
-OFF transient alpha
-OFF transient MeRF
-OFF transient SmRF
-F-mini OFF
-- ON-OFF small
-LED
-HD1
-HD2
-UHD
-- ON-OFF DS
-ON-OFF DS dorsal
-ON-OFF DS nasal
-ON-OFF DS temporal
-ON-OFF DS ventral
-ON-OFF DS - direction unknown
-- Other RGC
-ON delayed
-SbC bursty (OFF bursty)
-ON small OFF large
-M1
-OFF sustained SmRF
-- bad recording
-- unidentified RGC
-- unidentified amacrine
-CRH-1 amacrine
-ON sustained OS amacrine
-Etv1-A amacrine - triphasic
-Etv1-B amacrine - ON spider
-Etv1-C amacrine - spaghetti DS-OS
-Comet amacrine
-nNos-1 amacrine - A1
-nNos-2 amacrine - ON bowtie
-nNos-3 amacrine - A1-like OS
-nNos-4 amacrine - OFF symmetric 
-nNos-5 amacrine - OFF bowtie
+RGC
+RGC\ON-alpha
+RGC\OFF-sustained
+RGC\ON-transient
+RGC\OFF-transient
+RGC\ON DS
+RGC\ON/OFF DS
+RGC\Broad thorny
+bipolar
+bipolar\rod bipolar
+bipolar\cone bipolar
+amacrine
+amacrine\AII
+amacrine\A17
+amacrine\starburst
+amacrine\nNOS
+amacrine\ONWAC
+photoreceptor
+photoreceptor\rod
+photoreceptor\L cone
+photoreceptor\M cone
+photoreceptor\S cone
+photoreceptor\other
+other
