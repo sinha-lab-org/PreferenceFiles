@@ -28,7 +28,4 @@ ObjectMotionSensitivity	ObjectMotionSensitivityAnalysis
 
 LedPulse	LedPulseAnalysis
 LedPulse	LedPulseLightStepAnalysis
-LedPulse	AndrilaLightAmplitudeAnalysis
-ConeTyping	CTTreeAnalysis
-PulseFamily	AndrilaIVAnalysis
 LedNoise	LinearNonLinearAnalysis
