@@ -9,3 +9,4 @@ SbCpaper_contrastResp	1
 CRH_ablation_cell	1
 Drugs	Baclofen	Gabazine	MFA	Saclofen	Strychnine	TPMPA Combination
 Imaged	Confocal	2P
+Location    Foveal  Central Peripheral
